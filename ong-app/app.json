@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "MataAtlanticaApp",
-    "slug": "MataAtlanticaApp",
+    "name": "ong-app",
+    "slug": "ong-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mataatlanticaapp",
+    "scheme": "ongapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
